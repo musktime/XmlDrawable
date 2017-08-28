@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layerType="software"
+    android:shape="line">
+    <!-- 图形描边 -->
+    <stroke
+        android:width="2dp"
+        android:color="#438F00"
+        android:dashGap="2dp"
+        android:dashWidth="2dp" />
+    <!--android:dashGap  绘制虚线的线宽 -->
+    <!--android:dashWidth 绘制虚线的线段间隔-->
+
+</shape>
